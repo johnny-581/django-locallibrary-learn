@@ -1,0 +1,1 @@
+This is copy of MDN's [django-locallibrary-tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
