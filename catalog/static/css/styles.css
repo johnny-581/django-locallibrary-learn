@@ -1,9 +1,18 @@
+body {
+    background-color: rgb(242, 222, 207);
+}
+
 .sidebar-nav {
     margin-top: 20px;
     padding: 0;
     list-style: none;
 }
 
-body {
-    background-color: rgb(242, 222, 207);
+#logout-form {
+    display: inline;
+}
+
+#logout-form button {
+    padding: 0;
+    margin: 0;
 }
